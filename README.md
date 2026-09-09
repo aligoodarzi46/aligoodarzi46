@@ -9,7 +9,6 @@
 
 ## 📂 پروژه‌های برتر
 - [TaskManager.Api](https://github.com/aligoodarzi46/TaskManager.Api) - مدیریت تسک‌ها با ASP.NET Core
-- [EFCoreTest](https://github.com/aligoodarzi46/EFCoreTest) - تمرین Entity Framework
 
 ## 📫 ارتباط با من
 - [LinkedIn](https://linkedin.com/in/aligoodarzi46)
