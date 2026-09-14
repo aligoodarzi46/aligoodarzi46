@@ -11,6 +11,6 @@
 - [TaskManager.Api](https://github.com/aligoodarzi46/TaskManager.Api) - مدیریت تسک‌ها با ASP.NET Core
 
 ##ارتباط با من
-- [LinkedIn](https://linkedin.com/in/aligoodarzi24)
+- [LinkedIn](https://www.linkedin.com/in/aligoodarzi24/)
 - [GitHub](https://github.com/aligoodarzi46)
 - [Email](mailto:aligoodarzi46@gmail.com)
